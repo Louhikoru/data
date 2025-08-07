@@ -1,2 +1,1 @@
-# data
 Resource files
